@@ -24,3 +24,4 @@ v.Parent = game.Players.LocalPlayer.Backpack
 end
 end
 end)
+game.TextChatService.TextChannels.RBXGeneral:SendAsync('AntiTooler Loaded! [Made by popoff]')
